@@ -1,2 +1,2 @@
-# Methods-for-collecting-and-processing-data-from-the-Internet
-Методы сбора и обработки данных из сети Интернет
+# Методы сбора и обработки данных из сети Интернет
+Урок 6. Scrapy. Парсинг фото и файлов
